@@ -1,4 +1,4 @@
-# HPE Software Engineering Simulation
+# HPE Software Engineer Training
 ![Java](https://img.shields.io/badge/Java-orange)
 ![Greenlake Cloud](https://img.shields.io/badge/GreenLake_Cloud-green)
 
