@@ -14,7 +14,7 @@ The project focuses on building and testing a **RESTful Employee Management web 
 - [Key Components](#Key-Components)
 - [Folder Structure](#Folder-Structure)
 - [Tools & Technologies](#Tools--Technologies)
-- [Skills Demonstrated](#Skills--Demonstrated)
+- [Skills Demonstrated](#Skills-Demonstrated)
 
 ---
 
