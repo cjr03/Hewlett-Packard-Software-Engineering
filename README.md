@@ -7,8 +7,25 @@ The project focuses on building and testing a **RESTful Employee Management web 
 
 ---
 
+## Table of Contents
+
+- [Overview](#Overview)
+- [Certificate](#Certificate)
+- [Key Components](#Key-Components)
+- [Folder Structure](#Folder-Structure)
+- [Tools & Technologies](#Tools--Technologies)
+- [Skills Demonstrated](#Skills--Demonstrated)
+
+---
+
 ## Overview
 During this program, I designed and implemented a **REST API** for managing employee records. The system supports CRUD operations, is backed by unit and integration tests, and includes a professional proposal for deployment to cloud infrastructure.
+
+---
+
+## Certificate
+
+![Hewlett Packard Enterprise Software Engineering Certificate](HPE_SWE_Certificate.pdf)
 
 ---
 
@@ -46,7 +63,7 @@ During this program, I designed and implemented a **REST API** for managing empl
 
 ---
 
-## Repository Structure
+## Folder Structure
 
 ```bash
 .
