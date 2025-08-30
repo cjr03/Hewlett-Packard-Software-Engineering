@@ -2,7 +2,7 @@
 ![Java](https://img.shields.io/badge/Java-orange)
 ![Greenlake Cloud](https://img.shields.io/badge/GreenLake_Cloud-green)
 
-This repository contains my completed work for the **Hewlett Packard Enterprise (HPE) Software Engineering Job Simulation** on Forage.  
+This repository contains my completed work for Hewlett Packard Software Engineer Training.  
 The project focuses on building and testing a **RESTful Employee Management web service** with Java Spring Boot, along with a proposal for deployment on the **HPE GreenLake private cloud platform**.
 
 ---
