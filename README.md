@@ -25,7 +25,7 @@ During this program, I designed and implemented a **REST API** for managing empl
 
 ## Certificate
 
-![Hewlett Packard Enterprise Software Engineering Certificate](HPE_SWE_Certificate.pdf)
+![Hewlett Packard Enterprise Software Engineering Certificate](HPE_SWE_Certificate.png)
 
 ---
 
